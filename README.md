@@ -9,7 +9,7 @@
 
 ## Get Started
 
-1. `git clone (repository-url)`
+1. `git clone git@github.com:nullcitizen-tech/node-rdbms-crud-test.git`
 2. `npm install`
 3. Set up your database connection by creating a `.env` file (PORT, DATABASE_URL)
 4. `npm start`
